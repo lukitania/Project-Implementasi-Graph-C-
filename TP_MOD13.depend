@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671384254 source:d:\document d\tugas tugas smt 3 if 45 09\tp_mod13\main.cpp
+	"graph.h"
+
+1671384073 source:d:\document d\tugas tugas smt 3 if 45 09\tp_mod13\graph.cpp
+	"graph.h"
+
+1671384073 d:\document d\tugas tugas smt 3 if 45 09\tp_mod13\graph.h
+	<iostream>
+
